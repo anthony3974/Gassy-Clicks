@@ -7,12 +7,12 @@
         <VerticalStackLayout Padding="30,0" Spacing="25">
             <Label>Distance</Label>
             <Entry x:Name="distance" TextChanged="TextChanged"></Entry>
-            <Label>Fuel Efficinty l/100km</Label>
+            <Label>Fuel Efficiency l/100km</Label>
             <Entry x:Name="FE" TextChanged="TextChanged"></Entry>
             <Label>Cost of Gas</Label>
             <Entry x:Name="CoG" TextChanged="TextChanged"></Entry>
             <Label x:Name="Error" TextColor="Red"></Label>
-            <Label>Total is: </Label>
+            <Label>Total is:</Label>
             <Label x:Name="total"></Label>
         </VerticalStackLayout>
     </ScrollView>
