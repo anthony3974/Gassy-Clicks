@@ -1,4 +1,4 @@
 # Gassy Clicks
 
 .NET MAUI Gas cost calculator <br>
-Enter Distance, Efficinty and Cost of Gas then recive the total
+Enter Distance, Efficiency and Cost of Gas then receive the total
